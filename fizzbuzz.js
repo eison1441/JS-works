@@ -17,3 +17,8 @@ else if(n%2==0){
     console.log("fizz");
     
 }
+else{
+
+    console.log(n);
+    
+}
